@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+trading_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Cache / Logs
+.cache/
+*.log
+
+# Node
+node_modules/
+
